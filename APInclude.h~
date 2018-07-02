@@ -1,0 +1,21 @@
+#ifndef APINCLUDE_H
+#define APINCLUDE_H
+
+#include "APObject.h"
+
+
+<<<<<<< HEAD
+#define MAX_ITEM_TITLE 30
+=======
+#define WORLD_WIDTH 1600
+#define WORLD_HEIGHT 1800
+
+#define MESSAGE_QUEUE_SIZE 64
+#define MAX_WND_NUM 10
+#define MAX_WND_TITLE_LENGTH 20
+>>>>>>> 4b0c33db2d7dabb6b520de00e928f877d68637a0
+
+#define COLOR_NULL_ALPHA 0x0c
+#define COLOR_NULL RGB(COLOR_NULL_ALPHA, COLOR_NULL_ALPHA, COLOR_NULL_ALPHA)
+
+#endif
